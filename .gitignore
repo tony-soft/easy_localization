@@ -629,3 +629,6 @@ example/ios/Runner.xcodeproj/project.pbxproj
 
 # Allow
 !/bin/
+
+.fvm/
+.idea/
